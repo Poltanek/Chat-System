@@ -1,6 +1,11 @@
 # Chat-System
 
-Aim & Criteria
+## Prerequisites
+
+- Visual Studio 2022
+- WinForms and WPF
+
+## Criteria of this Project
 
 - Multiple clients can connect to and disconnect from the server error free.
 - Clients can communicate error free.
@@ -10,3 +15,7 @@ Aim & Criteria
 - Clean GUI can handle all aspects of the program's features and advanced techniques. Additionally, the GUI should be user friendly and simple to use
 - All data is secured, and a high level of understanding is present.
 - A serialiastion system implementation with no errors
+
+## Underconstruction
+
+If you would like to participate in this
