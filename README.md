@@ -18,4 +18,4 @@
 
 ## Underconstruction
 
-If you would like to participate in this
+If you would like to participate in this project you may by providing ideaes or a design layout
