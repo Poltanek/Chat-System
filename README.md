@@ -1,5 +1,7 @@
 # Chat-System
 
+This is a Chat System Application that will incorporate two unique game features whilst also ensuring network protocols and will be programmed in C#. 
+
 ## Prerequisites
 
 - Visual Studio 2022
